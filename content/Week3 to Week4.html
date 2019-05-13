@@ -67,4 +67,25 @@ $(function(){
 </ul>
 </confmenu></header>
 <div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='Introduction.html'>Introduction</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='Lesson Notes.html'>Lesson Notes</a><li><a href='Learning Progress.html'>Learning Progress</a><ul><li><a href='Week1 to Week2.html'>Week1 to Week2</a><li><a href='Week3 to Week4.html'>Week3 to Week4</a><li><a href='Week5 to Week6.html'>Week5 to Week6</a><li><a href='Week7 to Week8.html'>Week7 to Week8</a><li><a href='Week9.html'>Week9</a><li><a href='Week10.html'>Week10</a><li><a href='Week11.html'>Week11</a><li><a href='Week12.html'>Week12</a><li><a href='Week13.html'>Week13</a><li><a href='Week14.html'>Week14</a><li><a href='Week15.html'>Week15</a><li><a href='Week16.html'>Week16</a><li><a href='Week17.html'>Week17</a><li><a href='Week18.html'>Week18</a></li></ul></nav><section>Week1 to Week2 << <a href='Week1 to Week2.html'>Previous</a> <a href='Week5 to Week6.html'>Next</a> >> Week5 to Week6<br /><h1>Week3 to Week4</h1>
-<br />Week1 to Week2 << <a href='Week1 to Week2.html'>Previous</a> <a href='Week5 to Week6.html'>Next</a> >> Week5 to Week6</section></div></body></html>
+<p>如何使用 ungit 進行檔案推送及版本的推還確認</p>
+<p>1.先在y的home內部進行user config綁定</p>
+<p><img src="./../images/ungit set 1.png" width="600" height="322" alt=""></p>
+<p><img src="./../images/ungit set 2.png" width="600" height="322" alt=""></p>
+<p>2.到python wsgi.py動態網站更改部分的資料</p>
+<p>3.接著開啟ungit後進行commit上傳</p>
+<p><img src="./../images/ungit commit.png" width="600" height="322" alt=""></p>
+<p><span>4.上傳後再push即可更改成功</span></p>
+<p><img src="./../images/ungit push.png" width="600" height="322" alt=""></p>
+<p><span>5.到warehousing尋找commit recond</span></p>
+<p><img src="./../images/ungit recond.png" width="600" height="322" alt=""></p>
+<p>如何運用ungit回推版本:</p>
+<p>1.先開啟ungit，並將某一個歷程編上tag</p>
+<p><img src="./../images/git checkout 1.png" width="600" height="322" alt=""></p>
+<p><span>2.使用指令 git checkout 到所要的歷程，如下圖是到expw4-18，再開啟python wsgi.py確定是否回歸到版本。</span></p>
+<p><img src="./../images/git checkout 2.png" width="600" height="322" alt=""></p>
+<p><span>3.接著回到當前版本需要使用指令 git checkout -- config/content.htm ， 接著用git checkout delprogress回到當前版本。</span></p>
+<p><img src="./../images/git checkout 3.png" width="600" height="322" alt=""></p>
+<p><span>4.再次回到python wsgi.py內察看是否回到當前版本。</span></p>
+<p><img src="./../images/git checkout 4.png" width="600" height="322" alt=""></p>
+<p></p>
+<p></p><br />Week1 to Week2 << <a href='Week1 to Week2.html'>Previous</a> <a href='Week5 to Week6.html'>Next</a> >> Week5 to Week6</section></div></body></html>
