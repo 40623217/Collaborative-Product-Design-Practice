@@ -124,8 +124,22 @@
 <p>延續上周所提到紅字的部分，像是sim.addStatusbarMessage('sliding:'..sliding)是指模擬時加入狀態訊息('指定上方條件滑動過程:'&nbsp; .. 滑動過程)在模擬的下方訊息顯示出平移滑動時的增減平移距離。</p>
 <p><img src="/images/w12 process explanation-2.png" width="600" height="467" alt=""></p>
 <p><img src="/images/w12 process explanation-3.png" width="300" height="870" alt=""></p>
-<p>上圖所示有多數的桿件都放入上面兩張的程式碼各別放置到各個桿件中，事實上這是其中一個方法，但仍然是建議將全部的迴圈寫入至同一個程式碼流程內會更好，以V-rep來說寫入子程式應該是對於部分桿件的各自編寫細節，而不是將主要程式寫入子程式，本體的程式則是得寫入全部的桿件並做動的迴圈指令才是正確的，然而在這周我是將封閉地程式碼各別放入桿件子程式中，且主程式為空的狀態。</p><h2>Week13</h2><p>影片連結:&nbsp;<a href="https://www.youtube.com/watch?v=BOwD2FSJiyg">https://www.youtube.com/watch?v=BOwD2FSJiyg</a></p><p><iframe width="600" height="336" src="//www.youtube.com/embed/BOwD2FSJiyg" allowfullscreen="allowfullscreen"></iframe></p><p>process explanation</p><p><img src="/images/w13 process explantion.png" width="600" height="491" alt=""></p><p>以上圖&nbsp; local&nbsp; 的陣列給予指定，</p><p>像是&nbsp; local joint_b = {'left_joint','left_joint2','left_joint3','left_joint4'} 來說是指，對 joint 做局部陣列定義並等於&nbsp; { 'left_joint','left_joint2','left_joint3','left_joint4'}&nbsp; 這些。</p><p>以上圖紅字，像是&nbsp;joint_all_x1=sim.getObjectHandle(joint_b[1]) ，是要告訴它joint_all_x1 = 模擬項目處理(上面&nbsp; joint_b&nbsp; 陣列中的 'left_joint')&nbsp; 的意思。</p><p><img src="/images/w13 process explantion-2.png" width="600" height="491" alt=""></p><p>上圖的平移範圍設定，像是&nbsp; if (sliding_b &gt;= 0.35) then 、else sliding_b = sliding_b + 0.05，是要假設&nbsp; (sliding_b大於等於0.35)&nbsp; 後，告訴它&nbsp; sliding_b = sliding_b +0.05&nbsp; 的平移距離。</p><p><img src="/images/w13 process explantion-3.png" width="600" height="491" alt=""></p><p>以上圖的紅字設定是各別給予針對地速度 (名稱 ,&nbsp; 速度) 或是滑動過程&nbsp; (名稱,&nbsp; 滑動)。</p><p><img src="/images/w13 process explantion-4.png" width="600" height="491" alt=""></p><p>以上圖所示，是在給予指定的物樣在模擬時得到項目的處理&nbsp; (上面&nbsp; local&nbsp; 所針對的陣列)，再給予參數，速度 = 0、人偶回程 = 0、扭矩 = 0、滑動過程_a = 0、滑動過程_b = 0，接著給 旋轉軸方向 跟 人偶位置 的讀取 () ，最後再關閉 lua 完成這整串程式。</p><p><img src="/images/w13 process explantion-5.png" width="300" height="891" alt=""></p><p>以上的四張圖為主程式碼的部分，與上周的不同是將程式碼寫成封閉單個並各別放入各自桿件的子程式。</p><h2>Week14</h2>
-<h2>Week15</h2>
+<p>上圖所示有多數的桿件都放入上面兩張的程式碼各別放置到各個桿件中，事實上這是其中一個方法，但仍然是建議將全部的迴圈寫入至同一個程式碼流程內會更好，以V-rep來說寫入子程式應該是對於部分桿件的各自編寫細節，而不是將主要程式寫入子程式，本體的程式則是得寫入全部的桿件並做動的迴圈指令才是正確的，然而在這周我是將封閉地程式碼各別放入桿件子程式中，且主程式為空的狀態。</p><h2>Week13</h2>
+<p>影片連結:&nbsp;<a href="https://www.youtube.com/watch?v=BOwD2FSJiyg">https://www.youtube.com/watch?v=BOwD2FSJiyg</a></p>
+<p><iframe width="600" height="336" src="//www.youtube.com/embed/BOwD2FSJiyg" allowfullscreen="allowfullscreen"></iframe></p>
+<p>process explanation</p>
+<p><img src="/images/w13 process explantion.png" width="600" height="491" alt=""></p>
+<p>以上圖&nbsp; local&nbsp; 的陣列給予指定，</p>
+<p>像是&nbsp; local joint_b = {'left_joint','left_joint2','left_joint3','left_joint4'} 來說是指，對 joint 做局部陣列定義並等於&nbsp; { 'left_joint','left_joint2','left_joint3','left_joint4'}&nbsp; 這些。</p>
+<p>以上圖紅字，像是&nbsp;joint_all_x1=sim.getObjectHandle(joint_b[1]) ，是要告訴它joint_all_x1 = 模擬項目處理(上面&nbsp; joint_b&nbsp; 陣列中的 'left_joint')&nbsp; 的意思。</p>
+<p><img src="/images/w13 process explantion-2.png" width="600" height="491" alt=""></p>
+<p>上圖的平移範圍設定，像是&nbsp; if (sliding_b &gt;= 0.35) then 、else sliding_b = sliding_b + 0.05，是要假設&nbsp; (sliding_b大於等於0.35)&nbsp; 後，告訴它&nbsp; sliding_b = sliding_b +0.05&nbsp; 的平移距離。</p>
+<p><img src="/images/w13 process explantion-3.png" width="600" height="491" alt=""></p>
+<p>以上圖的紅字設定是各別給予針對地速度 (名稱 ,&nbsp; 速度) 或是滑動過程&nbsp; (名稱,&nbsp; 滑動)。</p>
+<p><img src="/images/w13 process explantion-4.png" width="600" height="491" alt=""></p>
+<p>以上圖所示，是在給予指定的物樣在模擬時得到項目的處理&nbsp; (上面&nbsp; local&nbsp; 所針對的陣列)，再給予參數，速度 = 0、人偶回程 = 0、扭矩 = 0、滑動過程_a = 0、滑動過程_b = 0，接著給 旋轉軸方向 跟 人偶位置 的讀取 () ，最後再關閉 lua 完成這整串程式。</p>
+<p><img src="/images/w13 process explantion-5.png" width="300" height="891" alt=""></p>
+<p>以上的四張圖為主程式碼的部分，與上周的不同是將程式碼寫成封閉單個並各別放入各自桿件的子程式。</p><h2>Week14</h2><p>影片連結:&nbsp;<a href="https://www.youtube.com/watch?v=8oRFduQYJLk">https://www.youtube.com/watch?v=8oRFduQYJLk</a></p><p><iframe width="600" height="336" src="//www.youtube.com/embed/8oRFduQYJLk" allowfullscreen="allowfullscreen"></iframe></p><p>process explanation</p><p><img src="/images/w14 process explanation.png" width="600" height="352" alt=""></p><p>上圖為本組 onshape 設計的足球場，前面幾周因為單獨使用程式而已，所以還沒直接丟入圖面，現在是有將圖檔複製後再載並轉為 .stl 檔匯進 V-rep 中並簡化，那過程是順利地與程式套用</p><p><img src="/images/w14 process explanation-2.png" width="300" height="884" alt=""></p><p><img src="/images/w14 process explanation-3.png" width="300" height="433" alt=""></p><p>上圖為這些桿件跟圖檔簡化後圖元連結的詳細結構狀態，這次在&nbsp; slider&nbsp; 放入桿子&nbsp; pole&nbsp; 為實際模擬真實的手足球檯的控制桿可以平移連動，再給予 people 到 pole 的連接下方。</p><p></p><h2>Week15</h2>
 <h2>Week16</h2>
 <h2>Week17</h2>
 <h2>Week18</h2>
