@@ -1,6 +1,6 @@
 Title: About
 
-##2019 Spring 40623217 personal blog
+##2018 Fall 分組網誌
 
 課程倉儲: <a href="https://github.com/mdecourse/2018fall">https://github.com/mdecourse/2018fall</a>
 
