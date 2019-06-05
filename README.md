@@ -11,3 +11,11 @@ website: https://40623217.github.io/Collaborative-Product-Design-Practice/conten
 reveal: https://40623217.github.io/Collaborative-Product-Design-Practice/reveal/index.html#/
 
 blog: https://40623217.github.io/Collaborative-Product-Design-Practice/blog/index.html
+
+older warehousing: https://github.com/mdecadp2018/site-40623217
+
+older website: https://mdecadp2018.github.io/site-40623217/content/index.html
+
+older reveal: https://mdecadp2018.github.io/site-40623217/reveal/index.html#/
+
+older blog: https://mdecadp2018.github.io/site-40623217/blog/index.html
