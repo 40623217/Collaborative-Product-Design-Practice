@@ -1,9 +1,13 @@
 # 2019 Spring 協同產品設計實習
 
-warehousing: https://github.com/40623217/Introduction-to-Collaborative-Product-Design-Practice
+team warehousing: https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5
 
-website: https://40623217.github.io/Introduction-to-Collaborative-Product-Design-Practice/content/index.html
+team website: https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/index.html
 
-reveal: https://40623217.github.io/Introduction-to-Collaborative-Product-Design-Practice/reveal/index.html#/
+warehousing: https://github.com/40623217/Collaborative-Product-Design-Practice
 
-blog: https://40623217.github.io/Introduction-to-Collaborative-Product-Design-Practice/blog/index.html
+website: https://40623217.github.io/Collaborative-Product-Design-Practice/content/index.html
+
+reveal: https://40623217.github.io/Collaborative-Product-Design-Practice/reveal/index.html#/
+
+blog: https://40623217.github.io/Collaborative-Product-Design-Practice/blog/index.html
