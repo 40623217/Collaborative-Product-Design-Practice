@@ -24,49 +24,39 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181021020740.1" a="E"><vh>w1</vh>
-<v t="leo.20181021020740.2" a="E"><vh>week1</vh>
-<v t="leo.20181021020740.3"><vh>w1內容</vh></v>
+<v t="leo.20181021020740.1" a="E"><vh>w11</vh>
+<v t="leo.20181021020740.2" a="E"><vh>week11</vh>
+<v t="leo.20181021020740.3"><vh>w11內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021022856.1" a="E"><vh>w2</vh>
-<v t="leo.20181021022856.2" a="E"><vh>week2</vh>
-<v t="leo.20181021022856.3"><vh>w2內容</vh></v>
+<v t="leo.20181021022856.1" a="E"><vh>w12</vh>
+<v t="leo.20181021022856.2" a="E"><vh>week12</vh>
+<v t="leo.20181021022856.3"><vh>w12內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021023255.1" a="E"><vh>w3</vh>
-<v t="leo.20181021023255.2" a="E"><vh>week3</vh>
-<v t="leo.20181021023255.3"><vh>w3內容</vh></v>
+<v t="leo.20181021023255.1" a="E"><vh>w13</vh>
+<v t="leo.20181021023255.2" a="E"><vh>week13</vh>
+<v t="leo.20181021023255.3"><vh>w13內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021023346.1" a="E"><vh>w4</vh>
-<v t="leo.20181021023346.2" a="E"><vh>week4</vh>
-<v t="leo.20181021023346.3"><vh>w4內容</vh></v>
+<v t="leo.20181021023346.1" a="E"><vh>w14</vh>
+<v t="leo.20181021023346.2" a="E"><vh>week14</vh>
+<v t="leo.20181021023346.3"><vh>w14內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021024414.1" a="E"><vh>w5</vh>
-<v t="leo.20181021024414.2" a="E"><vh>week5</vh>
-<v t="leo.20181021024414.3"><vh>w5內容</vh></v>
+<v t="leo.20181021024414.1" a="E"><vh>w15</vh>
+<v t="leo.20181021024414.2" a="E"><vh>week15</vh>
+<v t="leo.20181021024414.3"><vh>w15內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021025056.1" a="E"><vh>w6</vh>
-<v t="leo.20181021025056.2" a="E"><vh>week6</vh>
-<v t="leo.20181021025056.3"><vh>w6內容</vh></v>
+<v t="leo.20181021025056.1" a="E"><vh>w16</vh>
+<v t="leo.20181021025056.2" a="E"><vh>week16</vh>
+<v t="leo.20181021025056.3"><vh>w16內容</vh></v>
 </v>
 </v>
-<v t="leo.20181029115244.1" a="E"><vh>w7</vh>
-<v t="leo.20181029115244.2" a="E"><vh>week7</vh>
-<v t="leo.20181029115244.3"><vh>w7內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108203759.1" a="E"><vh>w8</vh>
-<v t="leo.20181108203759.2" a="E"><vh>week8</vh>
-<v t="leo.20181108203759.3"><vh>w8內容</vh></v>
-</v>
-</v>
-<v t="leo.20181108203802.1" a="E"><vh>w9</vh>
-<v t="leo.20181108203802.2" a="E"><vh>week9</vh>
-<v t="leo.20181108203802.3"><vh>w9內容</vh></v>
+<v t="leo.20181029115244.1" a="E"><vh>w17</vh>
+<v t="leo.20181029115244.2" a="E"><vh>week17</vh>
+<v t="leo.20181029115244.3"><vh>w17內容</vh></v>
 </v>
 </v>
 </v>
@@ -155,7 +145,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## mdepcad 2b 40623217 投影片
+<t tx="leo.20180827201621.10">## cd 2b 40623217 投影片
 
 ### 虎科大機械設計工程系
 
@@ -163,7 +153,7 @@ vertical: body pane on the botton</t>
 Created by 2b 40623217
 &lt;/small&gt;
 
-[40623217倉儲](https://github.com/40623217/Introduction-to-Collaborative-Product-Design-Practice)
+[40623217倉儲](https://github.com/40623217/Collaborative-Product-Design-Practice)
 
 [40623217網站](./../content/index.html)
 
@@ -283,9 +273,13 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021020740.3">## week1
+<t tx="leo.20181021020740.3">## week11
 
-* 自製一個64位元可攜 python 系統
+* 先了解老師給的 foosball 檔案內容
+* 開始著手程式的指令及迴圈
+
+[lua語法概述](https://www.tutorialspoint.com/lua/lua_overview.htm)
+
 
 
 
@@ -307,9 +301,15 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021022856.3">## week2
+<t tx="leo.20181021022856.3">## week12
 
-* 自製一個64位元可攜python系統
+* 組員開始分工
+* 開始人對人的手足球模擬
+* 建立個人倉儲
+
+[倉儲](https://github.com/40623217/Collaborative-Product-Design-Practice)
+
+[網站](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Introduction.html)
 
 </t>
 <t tx="leo.20181021023255.1">&lt;section&gt;
@@ -328,9 +328,11 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021023255.3">## week3
+<t tx="leo.20181021023255.3">## week13
 
-* 使用ungit進行推送資料及版本回推
+* 與組員完成手足球人對人模擬
+
+[人對人初步模擬影片](https://www.youtube.com/watch?v=BOwD2FSJiyg&amp;feature=youtu.be)
 
 </t>
 <t tx="leo.20181021023346.1">&lt;section&gt;
@@ -349,9 +351,11 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021023346.3">## week4
+<t tx="leo.20181021023346.3">## week14
 
-* 使用ungit進行送資料及版本回推
+* 將人對人程式置入組員設計的球場
+
+[人對人的模擬影片](https://www.youtube.com/watch?v=Y7pgjwSjug4&amp;feature=youtu.be)
 </t>
 <t tx="leo.20181021024414.1">&lt;section&gt;
 @others
@@ -369,9 +373,13 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021024414.3">## week5
+<t tx="leo.20181021024414.3">## week15
 
-* 模擬bubbleRob tutorial
+* 將電腦的程式設定寫出
+* 完成電腦對電腦的程式
+
+[電腦對電腦模擬影片](https://www.youtube.com/watch?v=QDQnJRHG0R0&amp;feature=youtu.be)
+
 
 </t>
 <t tx="leo.20181021025056.1">&lt;section&gt;
@@ -390,9 +398,17 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021025056.3">## week6
+<t tx="leo.20181021025056.3">## week16
 
-* 模擬bubbleRob
+* 完成人對電腦的程式
+* 人對人、人對電腦、電腦對電腦物件設定
+* 人對人、人對電腦、電腦對電腦程式解說
+
+[人對電腦的模擬影片](https://www.youtube.com/watch?v=SmzVGYIxK1g&amp;feature=youtu.be)
+
+[Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Program%20Explanation.html)
+
+[Object setting step](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Object%20setting%20step.html)
 
 </t>
 <t tx="leo.20181029115244.1">&lt;section&gt;
@@ -411,55 +427,10 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181029115244.3">## week7
+<t tx="leo.20181029115244.3">## week17
 
-* 清明連假，休息一周
+* 期末報告
 
-</t>
-<t tx="leo.20181108203759.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108203759.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181108203759.3">## week8
-
-* 繪製實習任務三
-
-</t>
-<t tx="leo.20181108203802.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108203802.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181108203802.3">## week9
-
-自評成績:70
-
-心得
-
-這星期期中考周，要上台報告，我還滿緊張可能要被酸，但似乎老師也有點聽不下去了，最後也是聽一聽或是看一看就直接問自評分數，接著下台，看來經歷了幾個班級的報告，是老師也扛不住的，畢竟也是有人會當混子，可能老師只是覺得太混不是很想說也說不定，至於我的報告，真的很意外的是老師竟然沒問我甚麼問題，令我挺驚訝的，或許可能該有的東西有呈現出來，就沒有多問我也說不定。
 </t>
 </tnodes>
 </leo_file>
