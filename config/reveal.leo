@@ -406,7 +406,11 @@ Created by 2b 40623217
 
 [人對電腦的模擬影片](https://www.youtube.com/watch?v=SmzVGYIxK1g&amp;feature=youtu.be)
 
-[Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Program%20Explanation.html)
+[人對人 Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20human.html)
+
+[人對電腦 Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20computer.html)
+
+[電腦對電腦 Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/computer%20and%20computer.html)
 
 [Object setting step](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Object%20setting%20step.html)
 
