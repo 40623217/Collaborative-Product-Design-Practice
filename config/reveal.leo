@@ -307,7 +307,7 @@ Created by 2b 40623217
 </t>
 <t tx="leo.20181021022856.3">## 每週歷程
 
-[Week11 to Week16](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Week11%20to%20Week17.html)
+[Week11 to Week16 Learing Progress](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Week11%20to%20Week17.html)
 
 
 </t>
@@ -376,7 +376,7 @@ Created by 2b 40623217
 
 [人對電腦程式解說](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20computer.html)
 
-[對腦對電腦程式解說](https://40623217.github.io/Collaborative-Product-Design-Practice/content/computer%20and%20computer.html)
+[電腦對電腦程式解說](https://40623217.github.io/Collaborative-Product-Design-Practice/content/computer%20and%20computer.html)
 
 
 
@@ -434,7 +434,7 @@ Created by 2b 40623217
 
 總分 : 75 分
     
-[細項連結]()
+[自評細項證明](https://40623217.github.io/Collaborative-Product-Design-Practice/content/%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92%E8%AA%B2%E7%A8%8B.html)
 </t>
 </tnodes>
 </leo_file>
