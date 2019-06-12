@@ -24,39 +24,39 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181021020740.1" a="E"><vh>w11</vh>
-<v t="leo.20181021020740.2" a="E"><vh>week11</vh>
-<v t="leo.20181021020740.3"><vh>w11內容</vh></v>
+<v t="leo.20181021020740.1" a="E"><vh>目錄摘要</vh>
+<v t="leo.20181021020740.2" a="E"><vh>目錄</vh>
+<v t="leo.20181021020740.3"><vh>目錄內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021022856.1" a="E"><vh>w12</vh>
-<v t="leo.20181021022856.2" a="E"><vh>week12</vh>
-<v t="leo.20181021022856.3"><vh>w12內容</vh></v>
+<v t="leo.20181021022856.1" a="E"><vh>每周歷程</vh>
+<v t="leo.20181021022856.2" a="E"><vh>每周過程</vh>
+<v t="leo.20181021022856.3"><vh>每周內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021023255.1" a="E"><vh>w13</vh>
-<v t="leo.20181021023255.2" a="E"><vh>week13</vh>
-<v t="leo.20181021023255.3"><vh>w13內容</vh></v>
+<v t="leo.20181021023255.1" a="E"><vh>每周心得</vh>
+<v t="leo.20181021023255.2" a="E"><vh>每一周心得</vh>
+<v t="leo.20181021023255.3"><vh>每周心得內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021023346.1" a="E"><vh>w14</vh>
-<v t="leo.20181021023346.2" a="E"><vh>week14</vh>
-<v t="leo.20181021023346.3"><vh>w14內容</vh></v>
+<v t="leo.20181021023346.1" a="E"><vh>V-rep模擬</vh>
+<v t="leo.20181021023346.2" a="E"><vh>v-rep模擬</vh>
+<v t="leo.20181021023346.3"><vh>V-rep模擬內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021024414.1" a="E"><vh>w15</vh>
-<v t="leo.20181021024414.2" a="E"><vh>week15</vh>
-<v t="leo.20181021024414.3"><vh>w15內容</vh></v>
+<v t="leo.20181021024414.1" a="E"><vh>系統功能展示</vh>
+<v t="leo.20181021024414.2" a="E"><vh>系統功能展現</vh>
+<v t="leo.20181021024414.3"><vh>系統功能展示內容</vh></v>
 </v>
 </v>
-<v t="leo.20181021025056.1" a="E"><vh>w16</vh>
-<v t="leo.20181021025056.2" a="E"><vh>week16</vh>
-<v t="leo.20181021025056.3"><vh>w16內容</vh></v>
+<v t="leo.20181021025056.1" a="E"><vh>小組與班級貢獻</vh>
+<v t="leo.20181021025056.2" a="E"><vh>組別與班級貢獻</vh>
+<v t="leo.20181021025056.3"><vh>組別與班級貢獻</vh></v>
 </v>
 </v>
-<v t="leo.20181029115244.1" a="E"><vh>w17</vh>
-<v t="leo.20181029115244.2" a="E"><vh>week17</vh>
-<v t="leo.20181029115244.3"><vh>w17內容</vh></v>
+<v t="leo.20181029115244.1" a="E"><vh>自評細項</vh>
+<v t="leo.20181029115244.2" a="E"><vh>自評</vh>
+<v t="leo.20181029115244.3"><vh>自評細項內容</vh></v>
 </v>
 </v>
 </v>
@@ -153,11 +153,13 @@ vertical: body pane on the botton</t>
 Created by 2b 40623217
 &lt;/small&gt;
 
+[2b bg5 倉儲](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
+
+[2b bg5 網站](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/content/index.html)
+
 [40623217倉儲](https://github.com/40623217/Collaborative-Product-Design-Practice)
 
 [40623217網站](./../content/index.html)
-
-[40623217網誌](./../blog/index.html)
 
 [40623217投影片](./../reveal/index.html)
 
@@ -273,12 +275,14 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021020740.3">## week11
+<t tx="leo.20181021020740.3">## 目錄
 
-* 先了解老師給的 foosball 檔案內容
-* 開始著手程式的指令及迴圈
-
-[lua語法概述](https://www.tutorialspoint.com/lua/lua_overview.htm)
+* 每週歷程
+* 每周心得
+* V-rep 的模擬
+* 系統功能展示
+* 小組與班級的貢獻
+* 自評細項
 
 
 
@@ -301,15 +305,10 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021022856.3">## week12
+<t tx="leo.20181021022856.3">## 每週歷程
 
-* 組員開始分工
-* 開始人對人的手足球模擬
-* 建立個人倉儲
+[Week11 to Week16](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Week11%20to%20Week17.html)
 
-[倉儲](https://github.com/40623217/Collaborative-Product-Design-Practice)
-
-[網站](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Introduction.html)
 
 </t>
 <t tx="leo.20181021023255.1">&lt;section&gt;
@@ -328,11 +327,9 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021023255.3">## week13
+<t tx="leo.20181021023255.3">## 每週心得
 
-* 與組員完成手足球人對人模擬
-
-[人對人初步模擬影片](https://www.youtube.com/watch?v=BOwD2FSJiyg&amp;feature=youtu.be)
+[week11 to week16 exp](https://40623217.github.io/Collaborative-Product-Design-Practice/content/w11%20to%20w17.html)
 
 </t>
 <t tx="leo.20181021023346.1">&lt;section&gt;
@@ -351,11 +348,11 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021023346.3">## week14
+<t tx="leo.20181021023346.3">## V-rep 的模擬
 
-* 將人對人程式置入組員設計的球場
+[物件設定](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Object%20setting%20step.html)
 
-[人對人的模擬影片](https://www.youtube.com/watch?v=Y7pgjwSjug4&amp;feature=youtu.be)
+[影片紀錄](https://www.youtube.com/channel/UC2GYATaworSXNhnpPt-Y69g?view_as=subscriber)
 </t>
 <t tx="leo.20181021024414.1">&lt;section&gt;
 @others
@@ -373,12 +370,14 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021024414.3">## week15
+<t tx="leo.20181021024414.3">## 系統功能展示
 
-* 將電腦的程式設定寫出
-* 完成電腦對電腦的程式
+[人對人程式解說](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20human.html)
 
-[電腦對電腦模擬影片](https://www.youtube.com/watch?v=QDQnJRHG0R0&amp;feature=youtu.be)
+[人對電腦程式解說](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20computer.html)
+
+[對腦對電腦程式解說](https://40623217.github.io/Collaborative-Product-Design-Practice/content/computer%20and%20computer.html)
+
 
 
 </t>
@@ -398,21 +397,11 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181021025056.3">## week16
+<t tx="leo.20181021025056.3">## 組別與班級貢獻
 
-* 完成人對電腦的程式
-* 人對人、人對電腦、電腦對電腦物件設定
-* 人對人、人對電腦、電腦對電腦程式解說
+我在組別中，主要是模擬手足球V-rep的部分，那過程的物件設定以及程式的撰寫是我逐步寫出的，有時候在模擬時，若是圖面上的不足會向組員討論如何更改，並讓模擬的足球台可順利達到做動。
 
-[人對電腦的模擬影片](https://www.youtube.com/watch?v=SmzVGYIxK1g&amp;feature=youtu.be)
-
-[人對人 Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20human.html)
-
-[人對電腦 Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20computer.html)
-
-[電腦對電腦 Program Explanation](https://40623217.github.io/Collaborative-Product-Design-Practice/content/computer%20and%20computer.html)
-
-[Object setting step](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Object%20setting%20step.html)
+班級上的貢獻的話，因為我並不是特別厲害，相對沒有人來問我怎麼操作，所以在班級上的貢獻也算是普普而已。
 
 </t>
 <t tx="leo.20181029115244.1">&lt;section&gt;
@@ -431,10 +420,21 @@ Created by 2b 40623217
 
 						
 </t>
-<t tx="leo.20181029115244.3">## week17
+<t tx="leo.20181029115244.3">## 自評
 
-* 期末報告
+* 學員出席 (20%) : 20 分
 
+* Github 倉儲管理  (20%) : 18 分
+
+* Onshape 協同操作 (20%) : 0 分
+
+* V-rep 模擬 (20%) : 20 分
+
+* 程式開發 (20%) : 17 分
+
+總分 : 75 分
+    
+[細項連結]()
 </t>
 </tnodes>
 </leo_file>
