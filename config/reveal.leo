@@ -430,13 +430,13 @@ Created by 2b 40623217
 
 * Github 倉儲管理  (20%) : 18 分
 
-* Onshape 協同操作 (20%) : 0 分
+* Onshape 協同操作 (20%) : 3 分
 
-* V-rep 模擬 (20%) : 20 分
+* V-rep 模擬 (20%) : 18 分
 
 * 程式開發 (20%) : 17 分
 
-總分 : 75 分
+總分 : 76 分
     
 [自評細項證明](https://40623217.github.io/Collaborative-Product-Design-Practice/content/%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92%E8%AA%B2%E7%A8%8B.html)
 </t>
