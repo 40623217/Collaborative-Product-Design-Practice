@@ -307,7 +307,7 @@ Created by 2b 40623217
 </t>
 <t tx="leo.20181021022856.3">## 每週歷程
 
-[Week11 to Week16 Learing Progress](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Week11%20to%20Week17.html)
+[Week11 to Week17 Learing Progress](https://40623217.github.io/Collaborative-Product-Design-Practice/content/Week11%20to%20Week17.html)
 
 
 </t>
@@ -329,7 +329,7 @@ Created by 2b 40623217
 </t>
 <t tx="leo.20181021023255.3">## 每週心得
 
-[week11 to week16 exp](https://40623217.github.io/Collaborative-Product-Design-Practice/content/w11%20to%20w17.html)
+[week11 to week17 exp](https://40623217.github.io/Collaborative-Product-Design-Practice/content/w11%20to%20w17.html)
 
 </t>
 <t tx="leo.20181021023346.1">&lt;section&gt;
